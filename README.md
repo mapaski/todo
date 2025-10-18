@@ -1,30 +1,38 @@
 📝 To-Do List App
 
 A beautiful, lightweight to-do list web application built with vanilla HTML, CSS, and JavaScript. Features persistent storage using localStorage, so your tasks are never lost!
+
+LIVE AT: https://mapaski.github.io/todo/
+
 Features
 
 Add Tasks - Quickly add new tasks with a single click or press Enter
+
 Mark Complete - Check off tasks as you complete them
+
 Delete Tasks - Remove tasks you no longer need
+
 Clear Completed - Bulk delete all completed tasks at once
+
 Task Statistics - See active and completed task counts at a glance
+
 Persistent Storage - Tasks are automatically saved to localStorage
+
 Responsive Design - Works seamlessly on desktop and mobile devices
+
 Beautiful UI - Modern gradient design with smooth animations
 
- Getting Started
-Prerequisites
-A modern web browser (Chrome, Firefox, Safari, Edge)
-
-That's it! No dependencies, no build process, no installation required.
-
 How to Use
+
 Add a Task: Type your task in the input field and click "Add" or press Enter
+
 Complete a Task: Click the checkbox next to a task to mark it as complete
+
 Delete a Task: Click the "Delete" button on any task to remove it
+
 Clear Completed: Use the "Clear completed tasks" button to remove all completed tasks at once
 
-Technology Stack
+Tech Stack
 HTML5 - Semantic markup
 CSS3 - Modern styling with gradients, transitions, and responsive design
 JavaScript (ES6+) - Vanilla JS with localStorage API for data persistence
